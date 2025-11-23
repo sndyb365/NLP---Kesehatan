@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+scikit-learn
+Sastrawi
+matplotlib
+wordcloud
+pandas
+numpy
